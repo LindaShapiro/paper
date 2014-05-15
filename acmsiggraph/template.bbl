@@ -1,0 +1,52 @@
+\begin{thebibliography}{\protect\citename{Wilamowska et~al\mbox{.} }2009}
+
+\bibitem[\protect\citename{Allen et~al\mbox{.} }2003]{allen}
+{\sc Allen, B., Curless, B., and Popovi{\'c}, Z.}
+\newblock 2003.
+\newblock The space of human body shapes: reconstruction and parameterization
+  from range scans.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, vol.~22, ACM, 587--594.
+
+\bibitem[\protect\citename{Inc. }2013]{face++}
+{\sc Inc., M.}, 2013.
+\newblock Face++ research toolkit.
+\newblock www.faceplusplus.com, Dec.
+
+\bibitem[\protect\citename{Jobson et~al\mbox{.} }1995]{Jobs95}
+{\sc Jobson, D.~J., Rahman, Z., and Woodell, G.~A.}
+\newblock 1995.
+\newblock Retinex image processing: Improved fidelity to direct visual
+  observation.
+\newblock In {\em Proceedings of the IS\&T Fourth Color Imaging Conference:
+  Color Science, Systems, and Applications}, vol.~4, The Society for Imaging
+  Science and Technology, 124--125.
+
+\bibitem[\protect\citename{Landis }2002]{notes2002}
+{\sc Landis, H.}, 2002.
+\newblock Global illumination in production.
+\newblock ACM SIGGRAPH 2002 Course \#16 Notes, July.
+
+\bibitem[\protect\citename{Park et~al\mbox{.} }2006]{Park:2006:DSI}
+{\sc Park, S.~W., Linsen, L., Kreylos, O., Owens, J.~D., and Hamann, B.}
+\newblock 2006.
+\newblock Discrete sibson interpolation.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics 12}, 2
+  (Mar.\slash Apr.), 243--253.
+
+\bibitem[\protect\citename{Pellacini et~al\mbox{.} }2005]{Pellacini:2005:LAH}
+{\sc Pellacini, F., Vidim{\v{c}}e, K., Lefohn, A., Mohr, A., Leone, M., and
+  Warren, J.}
+\newblock 2005.
+\newblock Lpics: a hybrid hardware-accelerated relighting engine for computer
+  cinematography.
+\newblock {\em ACM Transactions on Graphics 24}, 3 (Aug.), 464--470.
+
+\bibitem[\protect\citename{Wilamowska et~al\mbox{.}
+  }2009]{wilamowska2009classification}
+{\sc Wilamowska, K., Shapiro, L., and Heike, C.}
+\newblock 2009.
+\newblock {Classification of 3D face shape in 22q11. 2 deletion syndrome}.
+\newblock In {\em Biomedical Imaging: From Nano to Macro, 2009. ISBI'09. IEEE
+  International Symposium on}, IEEE, 534--537.
+
+\end{thebibliography}
